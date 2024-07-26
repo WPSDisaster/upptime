@@ -16,7 +16,7 @@ status-website:
   cname: status.wpsevac.com
   # baseUrl: /your-repo-name
   logoUrl: https://app.wpsevac.com/img/buttons/grayscale/WPSePlan.png
-  name: WPS Evac
+  name: Status
   introTitle: "**WPS Evac** is the software designed to meet all your emergency management needs"
   introMessage: This status page monitors our services and reports on any issues we may be facing at this time.
   navbar:
