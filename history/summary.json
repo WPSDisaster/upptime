@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 146,
-    "timeWeek": 176,
+    "time": 190,
+    "timeDay": 127,
+    "timeWeek": 144,
     "timeMonth": 197,
-    "timeYear": 191,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files-staging.wpsevac.com.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 184,
-    "timeWeek": 196,
+    "uptime": "99.74%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.74%",
+    "time": 217,
+    "timeDay": 202,
+    "timeWeek": 173,
     "timeMonth": 241,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-10-24": 0
+      "2024-10-25": 11,
+      "2024-10-24": 320
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 168,
-    "timeWeek": 204,
-    "timeMonth": 268,
-    "timeYear": 267,
+    "time": 266,
+    "timeDay": 217,
+    "timeWeek": 180,
+    "timeMonth": 271,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   }
 ]
