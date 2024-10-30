@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.wpsevac.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 178,
-    "timeWeek": 158,
-    "timeMonth": 191,
-    "timeYear": 189,
-    "dailyMinutesDown": {
-      "2024-10-29": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 190,
+    "timeDay": 228,
+    "timeWeek": 178,
+    "timeMonth": 196,
+    "timeYear": 190,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -30,11 +28,11 @@
     "uptimeWeek": "44.25%",
     "uptimeMonth": "87.17%",
     "uptimeYear": "95.90%",
-    "time": 218,
-    "timeDay": 326,
-    "timeWeek": 213,
-    "timeMonth": 243,
-    "timeYear": 218,
+    "time": 221,
+    "timeDay": 475,
+    "timeWeek": 245,
+    "timeMonth": 252,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-10-28": 979,
       "2024-10-27": 1440,
@@ -54,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 323,
-    "timeWeek": 201,
+    "time": 266,
+    "timeDay": 379,
+    "timeWeek": 237,
     "timeMonth": 257,
-    "timeYear": 265,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   }
 ]
