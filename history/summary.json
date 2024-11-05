@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.wpsevac.com.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.94%",
     "time": 191,
-    "timeDay": 276,
-    "timeWeek": 214,
+    "timeDay": 261,
+    "timeWeek": 215,
     "timeMonth": 200,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-05": 11,
+      "2024-11-04": 81
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.17%",
     "uptimeYear": "96.14%",
-    "time": 223,
-    "timeDay": 177,
-    "timeWeek": 301,
-    "timeMonth": 255,
-    "timeYear": 223,
+    "time": 222,
+    "timeDay": 149,
+    "timeWeek": 275,
+    "timeMonth": 253,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-10-28": 979,
       "2024-10-27": 1440,
@@ -55,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 167,
-    "timeWeek": 267,
-    "timeMonth": 249,
+    "timeDay": 252,
+    "timeWeek": 257,
+    "timeMonth": 250,
     "timeYear": 264,
     "dailyMinutesDown": {}
   }
