@@ -1,7 +1,7 @@
 url: https://app.wpsevac.com/health-check
-status: up
-code: 200
-responseTime: 168
-lastUpdated: 2024-12-01T23:04:53.720Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-02T15:36:54.053Z
 startTime: 2024-07-26T19:02:31.949Z
 generator: Upptime <https://github.com/upptime/upptime>
