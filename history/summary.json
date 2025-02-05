@@ -53,17 +53,19 @@
     "url": "https://wpsevac.com",
     "icon": "https://icons.duckduckgo.com/ip3/wpsevac.com.ico",
     "slug": "wpsevac-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 196,
-    "timeWeek": 206,
-    "timeMonth": 228,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 168,
+    "timeWeek": 198,
+    "timeMonth": 226,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   }
 ]
