@@ -1,7 +1,7 @@
 url: https://files-staging.wpsevac.com/images/facilities/W-1001/fac-1585692711-W-1001/1585692711hi-rise-pic.jpg
-status: up
-code: 200
-responseTime: 3252
-lastUpdated: 2026-01-12T08:04:39.921Z
+status: down
+code: 502
+responseTime: 3267
+lastUpdated: 2026-01-12T08:19:15.785Z
 startTime: 2024-07-26T19:02:32.440Z
 generator: Upptime <https://github.com/upptime/upptime>
