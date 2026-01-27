@@ -25,9 +25,9 @@
     "url": "https://files-staging.wpsevac.com/images/facilities/W-1001/fac-1585692711-W-1001/1585692711hi-rise-pic.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files-staging.wpsevac.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -37,6 +37,7 @@
     "timeMonth": 1181,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2026-01-12": 19,
       "2025-11-18": 151,
       "2025-06-23": 15
